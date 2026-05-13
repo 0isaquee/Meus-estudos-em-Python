@@ -5,7 +5,7 @@ Fiquei feliz com resultado e aprendizado retido no decorrer do desenvolvimento d
 🚩 Ele consiste em uma loja de materias de reparos e "construção" que comercializa 3 produtos de diferentes preços.
   No decorrer do código temos essa ordem de acontecimento:  
   **[1]** Definição de algumas variáveis incluindo os produtos a serem comercializados;  
-  **[2]** Apresentação ao cliente;  
+  **[2]** Apresentação da loja ao cliente;  
   **[3]** Início do primeiro loop, que consiste na escolha(s) do(s) produto(s) e quantidade(s), definição da quantidade limite de venda e verificação do valor total de cada produto;  
   **[4]** Por fim, é mostrado o valor final somado com todos os produtos escolhidos pelo cliente, forma de pagamento e finalização do pedido.  
 
